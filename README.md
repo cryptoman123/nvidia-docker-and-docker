@@ -14,5 +14,8 @@ chmod +x ./dockerInstall.sh
 ./dockerInstall.sh
 ```
 
+# LICENSE
+![GitHub](https://img.shields.io/github/license/cryptoman123/nvidia-docker-and-docker?style=for-the-badge)
+
 # Test Environment
 ![](https://img.shields.io/badge/Python%203.7-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-22.04LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange) ![](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
