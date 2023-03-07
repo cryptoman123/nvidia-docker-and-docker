@@ -1,6 +1,13 @@
 # nvidia-docker-and-docker
 To download and install Docker as well as Nvidia-Docker.
 
+## Dependencies
+You will have to install:
+1. nvidia driver
+2. trtexec
+3. cudnn
+4. nvcc
+
 ## How to run?
 ```bash
 chmod +x ./dockerInstall.sh
