@@ -15,4 +15,4 @@ chmod +x ./dockerInstall.sh
 ```
 
 # Test Environment
-![](https://img.shields.io/badge/Python%203.7-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/Windows%2011-Dell_G15_5511-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Python%203.7-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-22.04LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange)
